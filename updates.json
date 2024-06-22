@@ -1,0 +1,16 @@
+{
+    "addons": {
+        "{fefcce14-b503-44d9-87b7-3d41f9cec354}": {
+            "updates": [
+                {
+                    "version": "1.1",
+                    "update_link": "https://kinoget.github.io/kinohub-1.1.xpi"
+                },
+                {
+                    "version": "0.1",
+                    "update_link": "https://kinoget.github.io/kinohub-0.1.xpi"
+                }
+            ]
+        }
+    }
+}
